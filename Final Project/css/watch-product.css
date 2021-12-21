@@ -213,7 +213,7 @@ body {
 .script-system-of-product-watch p {
     margin-top: 10px;
     font-size: 13px;
-    color: #666666;
+    color: #ddd;
 }
 .watch-btn {
     cursor: pointer;
@@ -254,7 +254,7 @@ body {
 .script-system-of-product-addToFavorites p {
     margin-top: 10px;
     font-size: 13px;
-    color: #666666;
+    color: #ddd;
 }
 .like-btn {
     filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(135deg) brightness(102%) contrast(102%);
@@ -266,7 +266,7 @@ body {
 }
 .script-system-of-product-liked p {
     font-size: 13px;
-    color: #666666;
+    color: #ddd;
     margin-top: 10px;
 }
 .script-system-of-product-dislike {
@@ -274,7 +274,7 @@ body {
 }
 .script-system-of-product-dislike p {
     font-size: 13px;
-    color: #666666;
+    color: #ddd;
     margin-top: 10px;
 }
 .dislike-btn {
